@@ -1,5 +1,3 @@
-__author__ = "Fariz Rahman"
-
 from update_rules import hebbian, anti_hebbian, random_walk
 import numpy as np
 
