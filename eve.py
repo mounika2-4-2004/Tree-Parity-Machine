@@ -1,6 +1,3 @@
-# eve.py
-__author__ = "Fariz Rahman"
-
 from machine import Machine
 import numpy as np
 import time
