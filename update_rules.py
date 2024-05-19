@@ -1,7 +1,3 @@
-__author__ = "Fariz Rahman"
-
-#Update rules for tree parity machine
-
 import numpy as np
 
 def theta(t1, t2):
